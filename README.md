@@ -3,7 +3,9 @@
 ## Enlace del Google Slides
 
 ## Descripción del proyecto.
-Mi proyecto se centra en un Dataset que trata sobre la diabetes en personas jóvenes alrededor del mundo, ya que esta enfermedad se presenta cada vez a edades más tempranas. La clínica EVER realiza análisis de desarrollo relacionados con la sangre. Los abuelos a menudo experimentan tristeza al ver a los jóvenes enfrentar problemas de salud, ya que sus familias necesitan realizar exámenes de manera regular. Esta investigación busca comprender mejor y abordar la incidencia temprana de la diabetes en la población joven, ofreciendo información valiosa para mejorar la salud y el bienestar de las generaciones futuras. <br>
+Este proyecto destaca un conjunto de datos enfocado en la diabetes entre la población joven a nivel global. La preocupante tendencia de que la diabetes afecte a personas más jóvenes es el centro de nuestra investigación. La clínica EVER juega un papel crucial al realizar análisis de desarrollo relacionados con la sangre, proporcionando información valiosa para comprender mejor esta problemática.
+
+La conexión emocional entre los abuelos y los jóvenes es evidente, ya que los primeros experimentan tristeza al ver a sus seres queridos enfrentar problemas de salud. Este escenario se agrava cuando sus familias necesitan realizar exámenes de manera regular. A través de esta investigación, buscamos arrojar luz sobre la incidencia temprana de la diabetes en la población joven y ofrecer información que contribuya a mejorar la salud y el bienestar de las generaciones futuras. ¡Acompáñennos en este viaje para comprender y abordar este desafío de salud global!
 
 
 ## Scripts
