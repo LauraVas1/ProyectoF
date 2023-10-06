@@ -5,11 +5,6 @@
 ## Descripción del proyecto.
 Mi proyecto se centra en un Dataset que trata sobre la diabetes en personas jóvenes alrededor del mundo, ya que esta enfermedad se presenta cada vez a edades más tempranas. La clínica EVER realiza análisis de desarrollo relacionados con la sangre. Los abuelos a menudo experimentan tristeza al ver a los jóvenes enfrentar problemas de salud, ya que sus familias necesitan realizar exámenes de manera regular. Esta investigación busca comprender mejor y abordar la incidencia temprana de la diabetes en la población joven, ofreciendo información valiosa para mejorar la salud y el bienestar de las generaciones futuras. <br>
 
-La tabla de correlación proporciona información sobre las relaciones entre diferentes variables en el conjunto de datos sobre diabetes. Los valores de correlación varían de -1 a 1, donde: <br>
-Una correlación positiva (más cercana a 1) indica una fuerte relación positiva, lo que significa que a medida que una variable aumenta, la otra tiende a aumentar también. <br>
-Una correlación negativa (más cercana a -1) indica una fuerte relación negativa, lo que significa que a medida que una variable aumenta, la otra tiende a disminuir. <br>
-Un valor de correlación cercano a 0 sugiere una relación lineal débil o nula entre las variables.
-
 
 ## Scripts
 [Scripts de Python](https://colab.research.google.com/drive/1oghrKEsMio9rhX7O1bDV9IoijGLimeKl?usp=sharing)
@@ -137,7 +132,14 @@ laura.to_csv('diabetesDataAnslysis.csv')
 files.download('diabetesDataAnslysis.csv')
 ```
 
+
 * Enlace o referencia al dataset elegido
 [Enlace](https://www.kaggle.com/datasets/willianoliveiragibin/diabetesdataanslysis/data)
 
+
 ## Documentación
+La tabla de correlación proporciona información sobre las relaciones entre diferentes variables en el conjunto de datos sobre diabetes. Los valores de correlación varían de -1 a 1, donde: <br>
+Una correlación positiva (más cercana a 1) indica una fuerte relación positiva, lo que significa que a medida que una variable aumenta, la otra tiende a aumentar también. <br>
+Una correlación negativa (más cercana a -1) indica una fuerte relación negativa, lo que significa que a medida que una variable aumenta, la otra tiende a disminuir. <br>
+Un valor de correlación cercano a 0 sugiere una relación lineal débil o nula entre las variables.
+
