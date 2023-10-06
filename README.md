@@ -5,7 +5,7 @@
 ## Descripción del proyecto.
 Este proyecto destaca un conjunto de datos enfocado en la diabetes entre la población joven a nivel global. La preocupante tendencia de que la diabetes afecte a personas más jóvenes es el centro de nuestra investigación. La clínica EVER juega un papel crucial al realizar análisis de desarrollo relacionados con la sangre, proporcionando información valiosa para comprender mejor esta problemática.
 
-La conexión emocional entre los abuelos y los jóvenes es evidente, ya que los primeros experimentan tristeza al ver a sus seres queridos enfrentar problemas de salud. Este escenario se agrava cuando sus familias necesitan realizar exámenes de manera regular. A través de esta investigación, buscamos arrojar luz sobre la incidencia temprana de la diabetes en la población joven y ofrecer información que contribuya a mejorar la salud y el bienestar de las generaciones futuras. ¡Acompáñennos en este viaje para comprender y abordar este desafío de salud global!
+La conexión emocional entre los abuelos y los jóvenes es evidente, ya que los primeros experimentan tristeza al ver a sus seres queridos enfrentar problemas de salud. Este escenario se agrava cuando sus familias necesitan realizar exámenes de manera regular. A través de esta investigación, buscamos arrojar luz sobre la incidencia temprana de la diabetes en la población joven y ofrecer información que contribuya a mejorar la salud y el bienestar de las generaciones futuras. ¡Acompáñennos en este viaje para comprender y abordar este desafío de salud global! <br>
 
 
 ## Scripts
