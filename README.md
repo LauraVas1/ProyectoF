@@ -5,7 +5,8 @@
 ## Descripción del proyecto.
 
 ## Scripts
-[Scripts de Python]()
+[Scripts de Python](https://colab.research.google.com/drive/1oghrKEsMio9rhX7O1bDV9IoijGLimeKl?usp=sharing)
+
 * Importamos las bibliotecas necesarias para visualización de datos y análisis exploratorio. <br>
 -__*matplotlib.pyplot:*__ Biblioteca para crear gráficos y visualizaciones estáticas, animadas e interactivas en Python. <br>
 -__*seaborn:*__ Biblioteca para crear gráficos estadísticos atractivos y informativos en Python. <br>
