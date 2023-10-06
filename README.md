@@ -79,7 +79,7 @@ sns.distplot(laura['Edad'])
 fig=plt.figure(figsize=(5,5))
 sns.boxplot(y=laura["Embarazos"])
 ```
-* Calculamos estadísticas descriptivas para la columna __'Edad'__ del DataFrame __laura__. <br>
+* Calculamos estadísticas descriptivas para la columna __'Embarazos'__ del DataFrame __laura__. <br>
 -__*mean:*__ Calcula la media (promedio). <br>
 -__*median:*__ Calcula la mediana. <br>
 -__*mode:*__ Calcula la moda. <br>
