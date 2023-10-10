@@ -13,7 +13,7 @@ La conexión emocional entre los abuelos y los jóvenes es evidente, ya que los 
 
 * Importamos las bibliotecas necesarias para visualización de datos y análisis exploratorio. <br>
 -__*matplotlib.pyplot:*__ Biblioteca para crear gráficos y visualizaciones estáticas, animadas e interactivas en Python. <br>
--__*seaborn:*__ Biblioteca para crear gráficos estadísticos atractivos y informativos en Python. <br>
+-__*seaborn:*__ Biblioteca para crear gráficos estadísticos atractivos e informativos en Python. <br>
 -__*pandas:*__ Biblioteca la cual es una poderosa herramienta para manipulación y análisis de datos. <br>
 ```ruby
 import matplotlib.pyplot as plt
