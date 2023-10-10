@@ -148,21 +148,21 @@ Este proyecto se desarrolló con el objetivo de explorar y compartir informació
 
 ### Herramientas Utilizadas:
 
-- Kaggle: La plataforma proporcionó el dataset "diabetesDataAnslysis", esencial para la investigación y análisis.
+- __Kaggle:__ La plataforma proporcionó el dataset "diabetesDataAnslysis", esencial para la investigación y análisis.
 
-- Google Colab: Se empleó para llevar a cabo la limpieza de datos y preparar el dataset de manera adecuada, asegurando la calidad de la información.
+- __Google Colab:__ Se empleó para llevar a cabo la limpieza de datos y preparar el dataset de manera adecuada, asegurando la calidad de la información.
 
-- Power BI: La herramienta facilitó la creación de informes visuales detallados, permitiendo una comprensión más profunda de los datos.
+- __Power BI:__ La herramienta facilitó la creación de informes visuales detallados, permitiendo una comprensión más profunda de los datos.
 
-- GitHub: Se utilizó para alojar y compartir el proyecto de manera accesible.
+- __GitHub:__ Se utilizó para alojar y compartir el proyecto de manera accesible.
 
 ### Proceso:
 
-- Exploración de Datos: Kaggle proporcionó el dataset necesario, que fue analizado y limpiado en Google Colab para garantizar la validez y precisión de los resultados.
+- __Exploración de Datos:__ Kaggle proporcionó el dataset necesario, que fue analizado y limpiado en Google Colab para garantizar la validez y precisión de los resultados.
 
-- Visualización y Análisis: Power BI fue instrumental para representar visualmente los datos y obtener insights significativos.
+- __Visualización y Análisis:__ Power BI fue instrumental para representar visualmente los datos y obtener insights significativos.
 
-- Presentación: Se creó una presentación en PowerPoint para resumir los hallazgos y proporcionar una visión general del proyecto.
+- __Presentación:__ Se creó una presentación en PowerPoint para resumir los hallazgos y proporcionar una visión general del proyecto.
 
 ### Experiencia y Aprendizajes:
 
