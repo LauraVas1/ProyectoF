@@ -1,4 +1,9 @@
 # __Proyecto Final Bootcamp.__
+Bienvenidos a mi proyecto final, resultado del intenso trabajo realizado en el Bootcamp de Análisis de Datos. Enfocado en la diabetes, este análisis ofrece información detallada respaldada por el dataset "diabetesDataAnslysis" de Kaggle. El objetivo es proporcionar una visión clara y educativa sobre la diabetes, con el deseo de contribuir al entendimiento de esta condición. ¡Acompáñenme en este recorrido informativo!
+
+Saludos, Laura Arango.
+
+
 
 ## Enlace del Google Slides
 [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR6NvXstAIkeumXwV7QvKLFAMQNAtwRPYEboTpqVFpq2JdrBqby8e7J1Lv7zU4JmA/pub?start=false&loop=false&delayms=3000&slide=id.p23)
