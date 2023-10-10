@@ -3,7 +3,7 @@ Bienvenidos a mi proyecto final, resultado del intenso trabajo realizado en el B
 
 Saludos, Laura Arango.
 
-
+[Diabetes](https://cooperandoando.com/media/2017/11/diabetes_biG-2.png)
 
 ## Enlace del Google Slides
 [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR6NvXstAIkeumXwV7QvKLFAMQNAtwRPYEboTpqVFpq2JdrBqby8e7J1Lv7zU4JmA/pub?start=false&loop=false&delayms=3000&slide=id.p23)
@@ -180,4 +180,4 @@ El proyecto no estuvo exento de desafíos, pero cada obstáculo superado se trad
 ### Mensaje Final:
 
 Este proyecto no solo fue un ejercicio técnico, sino también una oportunidad para contribuir al conocimiento público sobre la diabetes. Si bien fue un desafío, la experiencia resultó gratificante y ofrece una base sólida para futuros proyectos similares. ¡A seguir aprendiendo y compartiendo!
-
+[Imagen](https://th.bing.com/th/id/R.b4ef62457cdaa01a89fbbbf33800dbc0?rik=rCd%2fEX35K%2bvt8g&riu=http%3a%2f%2f2.bp.blogspot.com%2f-pShIPwSptN8%2fTw8Zn3ITo-I%2fAAAAAAAAAAg%2fKybT4wVlHks%2fs1600%2fhoratierra1.jpg&ehk=YsNYOXrDUhEJyPNSOJ8GmB2w7fKccIjvNtioMliAoDU%3d&risl=&pid=ImgRaw&r=0)
