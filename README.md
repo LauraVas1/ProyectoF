@@ -1,6 +1,7 @@
 # __Proyecto Final Bootcamp.__
 
 ## Enlace del Google Slides
+[Enlace](https://docs.google.com/presentation/d/1smo7D_wmfPeAI69jI8dUJgR0cC-KymoQ/edit?usp=drive_link&ouid=107133597966522153886&rtpof=true&sd=true)
 
 ## Descripción del proyecto.
 Este proyecto destaca un conjunto de datos enfocado en la diabetes entre la población joven a nivel global. La preocupante tendencia de que la diabetes afecte a personas más jóvenes es el centro de esta investigación. La clínica EVER juega un papel crucial al realizar análisis de desarrollo relacionados con la sangre, proporcionando información valiosa para comprender mejor esta problemática.
