@@ -146,7 +146,7 @@ files.download('diabetesDataAnslysis.csv')
 
 Este proyecto se desarrolló con el objetivo de explorar y compartir información valiosa sobre la diabetes. Se utilizaron diversas herramientas a lo largo del proceso, incluyendo Kaggle, Google Colab, Power BI y GitHub.
 
-* Herramientas Utilizadas:
+### Herramientas Utilizadas:
 
 - Kaggle: La plataforma proporcionó el dataset "diabetesDataAnslysis", esencial para la investigación y análisis.
 
@@ -156,7 +156,7 @@ Este proyecto se desarrolló con el objetivo de explorar y compartir informació
 
 - GitHub: Se utilizó para alojar y compartir el proyecto de manera accesible.
 
-* Proceso:
+### Proceso:
 
 - Exploración de Datos: Kaggle proporcionó el dataset necesario, que fue analizado y limpiado en Google Colab para garantizar la validez y precisión de los resultados.
 
@@ -164,15 +164,15 @@ Este proyecto se desarrolló con el objetivo de explorar y compartir informació
 
 - Presentación: Se creó una presentación en PowerPoint para resumir los hallazgos y proporcionar una visión general del proyecto.
 
-* Experiencia y Aprendizajes:
+### Experiencia y Aprendizajes:
 
 Realizar este proyecto fue una experiencia fascinante. Aprender sobre la diabetes, desde sus causas hasta su tratamiento, fue enriquecedor. La investigación y el análisis permitieron comprender la importancia de la conciencia sobre la diabetes, y la creación de recursos accesibles es clave para llegar a un público más amplio.
 
-* Desafíos y Recompensas:
+### Desafíos y Recompensas:
 
 El proyecto no estuvo exento de desafíos, pero cada obstáculo superado se tradujo en un aprendizaje valioso. La dedicación y el tiempo invertido fueron fundamentales para lograr resultados significativos. Realizar este proyecto fue un proceso divertido y educativo.
 
-* Mensaje Final:
+### Mensaje Final:
 
 Este proyecto no solo fue un ejercicio técnico, sino también una oportunidad para contribuir al conocimiento público sobre la diabetes. Si bien fue un desafío, la experiencia resultó gratificante y ofrece una base sólida para futuros proyectos similares. ¡A seguir aprendiendo y compartiendo!
 
