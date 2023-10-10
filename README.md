@@ -3,7 +3,7 @@ Bienvenidos a mi proyecto final, resultado del intenso trabajo realizado en el B
 
 Saludos, Laura Arango.
 
-[R.jpg](https://github.com/LauraVas1/ProyectoF/blob/main/R.jpg)
+![R](https://github.com/LauraVas1/ProyectoF/assets/146401675/85df1de9-2524-4796-bc51-e80ccea3e6cb)
 
 ## Enlace del Google Slides
 [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR6NvXstAIkeumXwV7QvKLFAMQNAtwRPYEboTpqVFpq2JdrBqby8e7J1Lv7zU4JmA/pub?start=false&loop=false&delayms=3000&slide=id.p23)
