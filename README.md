@@ -142,7 +142,7 @@ files.download('diabetesDataAnslysis.csv')
 
 ## Documentación del Proyecto: Análisis de Datos sobre la Diabetes
 
-* Introducción:
+##* Introducción:
 
 Este proyecto se desarrolló con el objetivo de explorar y compartir información valiosa sobre la diabetes. Se utilizaron diversas herramientas a lo largo del proceso, incluyendo Kaggle, Google Colab, Power BI y GitHub.
 
