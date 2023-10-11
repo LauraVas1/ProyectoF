@@ -1,5 +1,5 @@
 # __Proyecto Final Bootcamp.__
-Bienvenidos a mi proyecto final, resultado del intenso trabajo realizado en el Bootcamp de Análisis de Datos. Enfocado en la diabetes, este análisis ofrece información detallada respaldada por el dataset "diabetesDataAnslysis" de Kaggle. El objetivo es proporcionar una visión clara y educativa sobre la diabetes, con el deseo de contribuir al entendimiento de esta condición. ¡Acompáñenme en este recorrido informativo!
+Bienvenidos a mi proyecto final, resultado del intenso trabajo realizado en el Bootcamp de Análisis de Datos. Enfocado en la diabetes, este análisis ofrece información detallada respaldada por el dataset "diabetesDataAnslysis" de Kaggle. El objetivo es proporcionar una visión clara y educativa sobre la diabetes, con el deseo de contribuir al entendimiento de esta condición.
 
 Saludos, Laura Arango.
 
