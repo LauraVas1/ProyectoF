@@ -7,7 +7,7 @@ Saludos, Laura Arango.
 
 
 ## Enlace del Google Slides
-[Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR6NvXstAIkeumXwV7QvKLFAMQNAtwRPYEboTpqVFpq2JdrBqby8e7J1Lv7zU4JmA/pub?start=false&loop=false&delayms=3000&slide=id.p23)
+[Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRU4aJ62xengfjKKSCm9xgvS0fOBdhRK-eYrkjd3NVBtN-ft48ARojy7otsHu4SiA/pub?start=true&loop=false&delayms=3000&slide=id.p1)
 
 ## Descripción del proyecto.
 Este proyecto destaca un conjunto de datos enfocado en la diabetes entre la población joven a nivel global. La preocupante tendencia de que la diabetes afecte a personas más jóvenes es el centro de esta investigación. La clínica EVER juega un papel crucial al realizar análisis de desarrollo relacionados con la sangre, proporcionando información valiosa para comprender mejor esta problemática.
@@ -142,7 +142,7 @@ files.download('diabetesDataAnslysis.csv')
 ```
 
 
-* Enlace o referencia al dataset elegido
+## Enlace o referencia al dataset elegido
 [Enlace](https://www.kaggle.com/datasets/willianoliveiragibin/diabetesdataanslysis/data)
 
 
