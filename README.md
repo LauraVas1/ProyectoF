@@ -7,7 +7,7 @@ Saludos, Laura Arango.
 
 # Contenido:
 
-[Enlace del Google Slides](https://github.com/LauraVas1/ProyectoF/blob/main/README.md#enlace-del-google-slides-1)
+[Enlace del Google Slides]
 [Descripción del proyecto]()
 [Scripts]()
 [Enlace o referencia al Dataset elegido]()
