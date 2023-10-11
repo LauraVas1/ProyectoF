@@ -18,9 +18,14 @@ Saludos, Laura Arango.
 [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRU4aJ62xengfjKKSCm9xgvS0fOBdhRK-eYrkjd3NVBtN-ft48ARojy7otsHu4SiA/pub?start=true&loop=false&delayms=3000&slide=id.p1)
 
 ## Descripción del proyecto.
-Este proyecto destaca un conjunto de datos enfocado en la diabetes entre la población joven a nivel global. La preocupante tendencia de que la diabetes afecte a personas más jóvenes es el centro de esta investigación. La clínica EVER juega un papel crucial al realizar análisis de desarrollo relacionados con la sangre, proporcionando información valiosa para comprender mejor esta problemática.
+Esta presentación destaca un conjunto de datos enfocado en la diabetes. La preocupante tendencia de que la diabetes afecte a personas más jóvenes es el centro de nuestra investigación.
+La diabetes es una condición crónica que afecta el equilibrio del azúcar en la sangre. Se gestiona mediante cuidados en la dieta, actividad física y, en ocasiones, medicación. La conciencia y la prevención son clave en su abordaje. <br>
+![image](https://github.com/LauraVas1/ProyectoF/assets/146401675/abbf42d1-3f96-46d2-8d4e-cdc35ae49d6d)
 
-La conexión emocional entre los abuelos y los jóvenes es evidente, ya que los primeros experimentan tristeza al ver a sus seres queridos enfrentar problemas de salud. Este escenario se agrava cuando sus familias necesitan realizar exámenes de manera regular. A través de esta investigación, busco arrojar luz sobre la incidencia temprana de la diabetes en la población joven y ofrecer información que contribuya a mejorar la salud y el bienestar de las generaciones futuras. ¡Acompáñenme en este viaje para comprender y abordar este desafío de salud global! <br>
+
+La conexión emocional entre los abuelos y los jóvenes es evidente, ya que los primeros experimentan tristeza al ver a sus seres queridos enfrentar problemas de salud. Este escenario se agrava cuando sus familias necesitan realizar exámenes de manera regular. A través de esta investigación, buscamos arrojar luz sobre la incidencia temprana de la diabetes y ofrecer información que contribuya a mejorar la salud y el bienestar de las generaciones futuras. ¡Acompáñenme en este viaje para comprender y abordar este desafío de salud global! <br>
+![image](https://github.com/LauraVas1/ProyectoF/assets/146401675/83ac811e-fff2-4ff5-9230-5a7fbc92285c)
+<br>
 
 
 ## Scripts
