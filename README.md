@@ -5,7 +5,7 @@ Saludos, Laura Arango.
 
 ![r](https://github.com/LauraVas1/ProyectoF/assets/146401675/91f7d1d4-f260-4968-993c-deb16d14ed48)
 
-#Enlace del Google Slides#
+# Enlace del Google Slides
 
 ## Enlace del Google Slides
 [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRU4aJ62xengfjKKSCm9xgvS0fOBdhRK-eYrkjd3NVBtN-ft48ARojy7otsHu4SiA/pub?start=true&loop=false&delayms=3000&slide=id.p1)
