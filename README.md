@@ -4,6 +4,7 @@ Bienvenidos a mi proyecto final, resultado del intenso trabajo realizado en el B
 Saludos, Laura Arango.
 
 ![r](https://github.com/LauraVas1/ProyectoF/assets/146401675/91f7d1d4-f260-4968-993c-deb16d14ed48)
+[Desing Thinking](https://www.canva.com/design/DAFw_Nql8sw/L3_4VKimuLbEmgmTYlnwCw/view?utm_content=DAFw_Nql8sw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # Contenido:
 
