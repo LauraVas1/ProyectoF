@@ -7,7 +7,7 @@ Saludos, Laura Arango.
 
 # Contenido:
 
-## Enlace del Google Slides
+## Enlace del Google Slides ##
 ## Descripción del proyecto
 ## Scripts
 ## Enlace o referencia al Dataset elegido
