@@ -142,7 +142,7 @@ files.download('diabetesDataAnslysis.csv')
 ```
 
 
-## Enlace o referencia al dataset elegido
+## Enlace o referencia al Dataset elegido
 [Enlace](https://www.kaggle.com/datasets/willianoliveiragibin/diabetesdataanslysis/data)
 
 
